@@ -21,6 +21,11 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		8E4AB5DB184BD80D00E3D4D2 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E4AB5DA184BD80D00E3D4D2 /* AVFoundation.framework */; };
+		8E4AB5DD184BD83200E3D4D2 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E4AB5DC184BD83200E3D4D2 /* AudioToolbox.framework */; };
+		8E4AB5DF184BD86200E3D4D2 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E4AB5DE184BD86200E3D4D2 /* StoreKit.framework */; };
+		8E4AB5E1184BD87700E3D4D2 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E4AB5E0184BD87700E3D4D2 /* MessageUI.framework */; };
+		8E4AB5E3184BD8D300E3D4D2 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E4AB5E2184BD8D300E3D4D2 /* AdSupport.framework */; };
 		B307826415C2A393006798D7 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B307826315C2A393006798D7 /* AssetsLibrary.framework */; };
 		B307826C15C2A44F006798D7 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B307826B15C2A44F006798D7 /* SystemConfiguration.framework */; };
 		B307826E15C2A47B006798D7 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = B307826D15C2A47B006798D7 /* assets */; };
@@ -83,6 +88,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E4AB5DA184BD80D00E3D4D2 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		8E4AB5DC184BD83200E3D4D2 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		8E4AB5DE184BD86200E3D4D2 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		8E4AB5E0184BD87700E3D4D2 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		8E4AB5E2184BD8D300E3D4D2 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
 		B307826315C2A393006798D7 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 		B307826B15C2A44F006798D7 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		B307826D15C2A47B006798D7 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
@@ -121,6 +131,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E4AB5E3184BD8D300E3D4D2 /* AdSupport.framework in Frameworks */,
+				8E4AB5E1184BD87700E3D4D2 /* MessageUI.framework in Frameworks */,
+				8E4AB5DF184BD86200E3D4D2 /* StoreKit.framework in Frameworks */,
+				8E4AB5DD184BD83200E3D4D2 /* AudioToolbox.framework in Frameworks */,
+				8E4AB5DB184BD80D00E3D4D2 /* AVFoundation.framework in Frameworks */,
 				B3F0CB92163AD60B005E099F /* libForgeModule.a in Frameworks */,
 				B307826C15C2A44F006798D7 /* SystemConfiguration.framework in Frameworks */,
 				B307826415C2A393006798D7 /* AssetsLibrary.framework in Frameworks */,
@@ -138,7 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				B3E58384162714AD00BD59DD /* libForgeModule.a */,
-				B3E58386162714AD00BD59DD /* templatemodule.bundle */,
+				B3E58386162714AD00BD59DD /* admob.bundle */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -164,6 +179,11 @@
 		B3FC517A15C14B2A003574D9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				8E4AB5E2184BD8D300E3D4D2 /* AdSupport.framework */,
+				8E4AB5E0184BD87700E3D4D2 /* MessageUI.framework */,
+				8E4AB5DE184BD86200E3D4D2 /* StoreKit.framework */,
+				8E4AB5DC184BD83200E3D4D2 /* AudioToolbox.framework */,
+				8E4AB5DA184BD80D00E3D4D2 /* AVFoundation.framework */,
 				B307826B15C2A44F006798D7 /* SystemConfiguration.framework */,
 				B307826315C2A393006798D7 /* AssetsLibrary.framework */,
 				B3FC519415C14B3C003574D9 /* ForgeCore.bundle */,
@@ -275,10 +295,10 @@
 			remoteRef = B3E58383162714AD00BD59DD /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		B3E58386162714AD00BD59DD /* templatemodule.bundle */ = {
+		B3E58386162714AD00BD59DD /* admob.bundle */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.cfbundle;
-			path = templatemodule.bundle;
+			path = admob.bundle;
 			remoteRef = B3E58385162714AD00BD59DD /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
