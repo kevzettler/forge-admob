@@ -11,6 +11,7 @@ GADBannerView *bannerView_;
 
 + (void)footerBanner:(ForgeTask*)task {
     NSString* pub_id = [[[ForgeApp sharedApp] configForPlugin:@"admob"] objectForKey:@"Publisher ID"];
+    
     UIViewController* parentVC = [[ForgeApp sharedApp] viewController];
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenWidth = screenRect.size.width;
