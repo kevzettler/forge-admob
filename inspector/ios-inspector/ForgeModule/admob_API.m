@@ -10,7 +10,6 @@ GADBannerView *bannerView_;
 
 
 + (void)footerBanner:(ForgeTask*)task {
-    GADBannerView *bannerView_;
     UIViewController* parentVC = [[ForgeApp sharedApp] viewController];
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenWidth = screenRect.size.width;

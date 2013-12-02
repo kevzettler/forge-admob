@@ -1,0 +1,42 @@
+[
+  {
+    "do":{
+      "add_ios_system_framework": {
+        "framework": "AdSupport.framework"
+      }
+    }
+  },
+
+  {
+    "do":{
+      "add_ios_system_framework": {
+        "framework": "MessageUI.framework"
+      }
+    }
+  },
+
+  {
+    "do":{
+      "add_ios_system_framework": {
+        "framework": "StoreKit.framework"
+      }
+    }
+  },
+
+  {
+    "do":{
+      "add_ios_system_framework": {
+        "framework": "AudioToolbox.framework"
+      }
+    }
+  },
+
+  {
+    "do":{
+      "add_ios_system_framework": {
+        "framework": "AVFoundation.framework"
+      }
+    }
+  }
+
+]

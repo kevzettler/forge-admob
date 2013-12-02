@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "Publisher ID": {
+            "required": true,
+            "type": "string"
+        }
+}
