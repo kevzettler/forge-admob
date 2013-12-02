@@ -10,6 +10,7 @@ GADBannerView *bannerView_;
 
 
 + (void)footerBanner:(ForgeTask*)task {
+    NSString* pub_id = [[[ForgeApp sharedApp] configForPlugin:@"admob"] objectForKey:@"Publisher ID"];
     UIViewController* parentVC = [[ForgeApp sharedApp] viewController];
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenWidth = screenRect.size.width;
@@ -24,7 +25,7 @@ GADBannerView *bannerView_;
     bannerView_ = [[GADBannerView alloc] initWithAdSize:kGADAdSizeBanner origin:origin];
     
     // Specify the ad unit ID.
-    bannerView_.adUnitID = @"a1529bbd54e3737";
+    bannerView_.adUnitID = pub_id;
     
     // Let the runtime know which UIViewController to restore after taking
     // the user wherever the ad goes and add it to the view hierarchy.
