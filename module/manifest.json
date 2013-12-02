@@ -1,5 +1,5 @@
 {
-	"description": "admob integration for trigger\n",
+	"description": "admob / google mobile ads integration for trigger\n",
 	"name": "admob",
 	"platform_version": "v2.0.4",
 	"version": "0.1"
