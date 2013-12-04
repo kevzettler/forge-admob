@@ -1,1 +1,1 @@
-{"modules": {"inspector": {"version": "1.0"}, "admob": {"version": "exampleversion"}}}
+{"modules": {"inspector": {"version": "1.0"}, "admob": {"version": "0.1", "config": {"Publisher ID": "a1529bbd54e3737"}}}}

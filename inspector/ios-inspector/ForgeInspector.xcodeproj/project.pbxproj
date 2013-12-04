@@ -11,10 +11,10 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>18809db5-2603-4ea3-aa8f-12a9b15a13d5build</key>
+		<key>0b53d38c-2046-4b6f-87a0-76a2e92e4842build</key>
 		<dict>
 			<key>fileRef</key>
-			<string>18809db5-2603-4ea3-aa8f-12a9b15a13d5file</string>
+			<string>0b53d38c-2046-4b6f-87a0-76a2e92e4842file</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -25,7 +25,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>18809db5-2603-4ea3-aa8f-12a9b15a13d5file</key>
+		<key>0b53d38c-2046-4b6f-87a0-76a2e92e4842file</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -34,10 +34,10 @@
 			<key>sourceTree</key>
 			<string>SDKROOT</string>
 		</dict>
-		<key>437f250f-1453-4343-9b86-75a32deb2aefbuild</key>
+		<key>1386968c-1fa2-4bd7-bf23-136d2c7607b9build</key>
 		<dict>
 			<key>fileRef</key>
-			<string>437f250f-1453-4343-9b86-75a32deb2aeffile</string>
+			<string>1386968c-1fa2-4bd7-bf23-136d2c7607b9file</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -48,35 +48,12 @@
 				</array>
 			</dict>
 		</dict>
-		<key>437f250f-1453-4343-9b86-75a32deb2aeffile</key>
+		<key>1386968c-1fa2-4bd7-bf23-136d2c7607b9file</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>System/Library/Frameworks/MessageUI.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>9b73505f-4c90-4d95-87e3-02ba82a57c04build</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9b73505f-4c90-4d95-87e3-02ba82a57c04file</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Weak</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9b73505f-4c90-4d95-87e3-02ba82a57c04file</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/AVFoundation.framework</string>
+			<string>System/Library/Frameworks/StoreKit.framework</string>
 			<key>sourceTree</key>
 			<string>SDKROOT</string>
 		</dict>
@@ -782,11 +759,11 @@ mv build/Release-iphoneos/*.bundle ../build 2&gt;&gt;/dev/null || echo "No bundl
 				<string>B3FC517E15C14B2A003574D9</string>
 				<string>B3FC518015C14B2A003574D9</string>
 				<string>B3FC519315C14B35003574D9</string>
-				<string>18809db5-2603-4ea3-aa8f-12a9b15a13d5build</string>
-				<string>437f250f-1453-4343-9b86-75a32deb2aefbuild</string>
-				<string>ca8c4cd2-e71e-4797-ba9f-cb576e8d96dcbuild</string>
-				<string>e280d5a7-556d-48bc-9297-72714c6c290ebuild</string>
-				<string>9b73505f-4c90-4d95-87e3-02ba82a57c04build</string>
+				<string>0b53d38c-2046-4b6f-87a0-76a2e92e4842build</string>
+				<string>cd49e921-4684-4331-ac7c-bfab5693bbddbuild</string>
+				<string>1386968c-1fa2-4bd7-bf23-136d2c7607b9build</string>
+				<string>c53a37f0-641a-4470-b7aa-6b52ebd4f58cbuild</string>
+				<string>f8bb2f0e-4c86-490e-ac52-218ab694b65abuild</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
@@ -891,11 +868,11 @@ mv build/Release-iphoneos/*.bundle ../build 2&gt;&gt;/dev/null || echo "No bundl
 				<string>B3FC517B15C14B2A003574D9</string>
 				<string>B3FC517D15C14B2A003574D9</string>
 				<string>B3FC517F15C14B2A003574D9</string>
-				<string>18809db5-2603-4ea3-aa8f-12a9b15a13d5file</string>
-				<string>437f250f-1453-4343-9b86-75a32deb2aeffile</string>
-				<string>ca8c4cd2-e71e-4797-ba9f-cb576e8d96dcfile</string>
-				<string>e280d5a7-556d-48bc-9297-72714c6c290efile</string>
-				<string>9b73505f-4c90-4d95-87e3-02ba82a57c04file</string>
+				<string>0b53d38c-2046-4b6f-87a0-76a2e92e4842file</string>
+				<string>cd49e921-4684-4331-ac7c-bfab5693bbddfile</string>
+				<string>1386968c-1fa2-4bd7-bf23-136d2c7607b9file</string>
+				<string>c53a37f0-641a-4470-b7aa-6b52ebd4f58cfile</string>
+				<string>f8bb2f0e-4c86-490e-ac52-218ab694b65afile</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -1280,10 +1257,10 @@ mv build/Release-iphoneos/*.bundle ../build 2&gt;&gt;/dev/null || echo "No bundl
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>ca8c4cd2-e71e-4797-ba9f-cb576e8d96dcbuild</key>
+		<key>c53a37f0-641a-4470-b7aa-6b52ebd4f58cbuild</key>
 		<dict>
 			<key>fileRef</key>
-			<string>ca8c4cd2-e71e-4797-ba9f-cb576e8d96dcfile</string>
+			<string>c53a37f0-641a-4470-b7aa-6b52ebd4f58cfile</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1294,35 +1271,58 @@ mv build/Release-iphoneos/*.bundle ../build 2&gt;&gt;/dev/null || echo "No bundl
 				</array>
 			</dict>
 		</dict>
-		<key>ca8c4cd2-e71e-4797-ba9f-cb576e8d96dcfile</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/StoreKit.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>e280d5a7-556d-48bc-9297-72714c6c290ebuild</key>
-		<dict>
-			<key>fileRef</key>
-			<string>e280d5a7-556d-48bc-9297-72714c6c290efile</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Weak</string>
-				</array>
-			</dict>
-		</dict>
-		<key>e280d5a7-556d-48bc-9297-72714c6c290efile</key>
+		<key>c53a37f0-641a-4470-b7aa-6b52ebd4f58cfile</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>System/Library/Frameworks/AudioToolbox.framework</string>
+			<key>sourceTree</key>
+			<string>SDKROOT</string>
+		</dict>
+		<key>cd49e921-4684-4331-ac7c-bfab5693bbddbuild</key>
+		<dict>
+			<key>fileRef</key>
+			<string>cd49e921-4684-4331-ac7c-bfab5693bbddfile</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Weak</string>
+				</array>
+			</dict>
+		</dict>
+		<key>cd49e921-4684-4331-ac7c-bfab5693bbddfile</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>System/Library/Frameworks/MessageUI.framework</string>
+			<key>sourceTree</key>
+			<string>SDKROOT</string>
+		</dict>
+		<key>f8bb2f0e-4c86-490e-ac52-218ab694b65abuild</key>
+		<dict>
+			<key>fileRef</key>
+			<string>f8bb2f0e-4c86-490e-ac52-218ab694b65afile</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Weak</string>
+				</array>
+			</dict>
+		</dict>
+		<key>f8bb2f0e-4c86-490e-ac52-218ab694b65afile</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>System/Library/Frameworks/AVFoundation.framework</string>
 			<key>sourceTree</key>
 			<string>SDKROOT</string>
 		</dict>

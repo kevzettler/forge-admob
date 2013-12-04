@@ -1,6 +1,7 @@
 {
 	"description": "admob / google mobile ads integration for trigger\n",
-	"name": "admob",
-	"platform_version": "v2.0.4",
+	"min_platform_version": "v2.1.0",
+	"namespace": "admob",
+	"platform_version": "v2.1.0",
 	"version": "0.1"
 }

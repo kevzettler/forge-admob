@@ -18,6 +18,7 @@
 @property UIWebView* webView;
 /// appConfig dictionary
 @property NSDictionary* appConfig;
+@property NSDictionary* moduleMapping;
 /// Forge app delegate
 @property ForgeAppDelegate* appDelegate;
 /// Forge view controller

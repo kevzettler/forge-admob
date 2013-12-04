@@ -1,0 +1,182 @@
+TForgeModule
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.o /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.o /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000529AC36F00000000000003B5
+t1385874287
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000529AC37500000000000001A0
+t1385874293
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000529AC3760000000000059350
+t1385874294
+s365392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000529AC3780000000000445870
+t1385874296
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000529AC37A000000000088C680
+t1385874298
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000529AC37B00000000001081B0
+t1385874299
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000529AC37F0000000001DB9910
+t1385874303
+s31168784
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/ForgeCore
+c00000000529B97C6000000000046243C
+t1385928646
+s4596796
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+c00000000529B97C60000000000000159
+t1385928646
+s345
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m
+c00000000529BE7400000000000000647
+t1385948992
+s1607
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m
+c00000000529B97C6000000000000020C
+t1385928646
+s524
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList
+c00000000529BE7A30000000000000166
+t1385949091
+s358
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.o
+t1385949091
+s47136
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.o
+t1385949091
+s55288
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+t2
+s0
+
+N/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1/libGoogleAdMobAds.a
+c000000005282BE84000000000086A5B4
+t1384300164
+s8824244
+
+N/var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.pch
+t1385949091
+s5906676
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2cf524231f4cb841^e5b62d231f4cb841^---0#1#1#--18"Check dependencies36"3D7F03F4-674A-4ADC-A91C-60481756B887-
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.o /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407641891.538979
+e407641891.602362
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.o
+x/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1/GADBannerView.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1/GADAdSize.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1/GADBannerViewDelegate.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1/GADRequest.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1/GADRequestError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m186"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.o admob_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f488a231f4cb841^76349a231f4cb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m0000000000000000^3256"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.o admob_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/.. -include /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.d --serialize-diagnostics /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.dia -c /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_API.m -o /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_API.o36"9E488A0F-675F-4E5C-8C2C-5D6F1EA4383D-
+b89E25854-B1E5-41F9-9426-653001E2FABD
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.o /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407641891.538999
+e407641891.594097
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.o
+x/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m206"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.o admob_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9b5a8a231f4cb841^481698231f4cb841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m0000000000000000^3316"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.o admob_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/.. -include /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.d --serialize-diagnostics /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.dia -c /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/admob_EventListener.m -o /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/admob_EventListener.o36"AB04E567-4696-404B-9E1B-1B5BC5863C26-
+b89E25854-B1E5-41F9-9426-653001E2FABD
+
+CLibtool /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+s407641891.611174
+e407641891.639272
+r1
+xLibtool
+x/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Release-iphonesimulator/libForgeModule.a normal i38666"Libtool build/Release-iphonesimulator/libForgeModule.a normal i38679b19c231f4cb841^2fa8a3231f4cb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1703"Libtool build/Release-iphonesimulator/libForgeModule.a normal i386    cd /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -L\"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02/GoogleAnalytics/Library\" -L\"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02\" -L\"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/GoogleAdMobAdsSdkiOS-6.6.1\" -L\"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/../../../../../../../Downloads/GoogleAdMobAdsSdkiOS-6.6.1\" -L/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1 -filelist /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework CoreGraphics -lGoogleAdMobAds -framework AssetsLibrary -framework UIKit -framework Foundation -framework ForgeCore -o /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a36"72A99659-5102-442C-8692-9CA6DA1CA44D-
+b89E25854-B1E5-41F9-9426-653001E2FABD
+
+CProcessPCH /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407641891.184549
+e407641891.529937
+r1
+xProcessPCH
+x/var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch313"ProcessPCH /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf88d2f231f4cb841^ceaa87231f4cb841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^3294"ProcessPCH /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule -F/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.d -c /Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/w1/3zw7h2xs0jbdw5_2f96q0v700000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cnrzlqqouwrgtlggbukuaewltwky/ForgeModule-Prefix.pch.pch36"F5222314-2953-4923-8752-F2F8B803F762-
+b89E25854-B1E5-41F9-9426-653001E2FABD
+

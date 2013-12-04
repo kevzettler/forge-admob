@@ -6,4 +6,5 @@
             "required": true,
             "type": "string"
         }
+    }
 }
