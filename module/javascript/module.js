@@ -1,7 +1,7 @@
 // Expose the native API to javascript
 forge.admob = {
-    renderBanner: function () {
-        forge.internal.call('admob.renderBanner');
+    footerBanner: function () {
+        forge.internal.call('admob.footerBanner');
     },
 
     refresh: function(){
