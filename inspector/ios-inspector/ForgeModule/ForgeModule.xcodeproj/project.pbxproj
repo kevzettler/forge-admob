@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8E93CED8184C236600C785C2 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E93CED6184C236600C785C2 /* libGoogleAdMobAds.a */; };
+		8EA55BFC1853DD9600A81944 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EA55BFA1853DD9600A81944 /* libGoogleAdMobAds.a */; };
 		B31B6D5215C13D5200854074 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31B6D5115C13D5200854074 /* Foundation.framework */; };
 		B31B6D6F15C1467100854074 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31B6D6E15C1467100854074 /* CoreFoundation.framework */; };
 		B37C3A5D162717A200B50A60 /* ForgeCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B37C3A5C162717A200B50A60 /* ForgeCore.framework */; };
@@ -20,17 +20,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8E93CECD184C236600C785C2 /* GADAdMobExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdMobExtras.h; path = ../GADAdMobExtras.h; sourceTree = "<group>"; };
-		8E93CECE184C236600C785C2 /* GADAdNetworkExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdNetworkExtras.h; path = ../GADAdNetworkExtras.h; sourceTree = "<group>"; };
-		8E93CECF184C236600C785C2 /* GADAdSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADAdSize.h; path = ../GADAdSize.h; sourceTree = "<group>"; };
-		8E93CED0184C236600C785C2 /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADBannerView.h; path = ../GADBannerView.h; sourceTree = "<group>"; };
-		8E93CED1184C236600C785C2 /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADBannerViewDelegate.h; path = ../GADBannerViewDelegate.h; sourceTree = "<group>"; };
-		8E93CED2184C236600C785C2 /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInterstitial.h; path = ../GADInterstitial.h; sourceTree = "<group>"; };
-		8E93CED3184C236600C785C2 /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADInterstitialDelegate.h; path = ../GADInterstitialDelegate.h; sourceTree = "<group>"; };
-		8E93CED4184C236600C785C2 /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADRequest.h; path = ../GADRequest.h; sourceTree = "<group>"; };
-		8E93CED5184C236600C785C2 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GADRequestError.h; path = ../GADRequestError.h; sourceTree = "<group>"; };
-		8E93CED6184C236600C785C2 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libGoogleAdMobAds.a; path = ../libGoogleAdMobAds.a; sourceTree = "<group>"; };
-		8E93CED7184C236600C785C2 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.txt; path = ../README.txt; sourceTree = "<group>"; };
+		8EA55BF11853DD9600A81944 /* GADAdMobExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADAdMobExtras.h; sourceTree = "<group>"; };
+		8EA55BF21853DD9600A81944 /* GADAdNetworkExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADAdNetworkExtras.h; sourceTree = "<group>"; };
+		8EA55BF31853DD9600A81944 /* GADAdSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADAdSize.h; sourceTree = "<group>"; };
+		8EA55BF41853DD9600A81944 /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerView.h; sourceTree = "<group>"; };
+		8EA55BF51853DD9600A81944 /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerViewDelegate.h; sourceTree = "<group>"; };
+		8EA55BF61853DD9600A81944 /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitial.h; sourceTree = "<group>"; };
+		8EA55BF71853DD9600A81944 /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitialDelegate.h; sourceTree = "<group>"; };
+		8EA55BF81853DD9600A81944 /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequest.h; sourceTree = "<group>"; };
+		8EA55BF91853DD9600A81944 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = "<group>"; };
+		8EA55BFA1853DD9600A81944 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = "<group>"; };
+		8EA55BFB1853DD9600A81944 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		B31B6D4E15C13D5200854074 /* libForgeModule.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libForgeModule.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B31B6D5115C13D5200854074 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B31B6D6D15C1467100854074 /* admob.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = admob.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -60,7 +60,7 @@
 				B3FC51FF15C1523D003574D9 /* CoreGraphics.framework in Frameworks */,
 				B3FC524215C177EA003574D9 /* AssetsLibrary.framework in Frameworks */,
 				B3FC51F815C151E5003574D9 /* UIKit.framework in Frameworks */,
-				8E93CED8184C236600C785C2 /* libGoogleAdMobAds.a in Frameworks */,
+				8EA55BFC1853DD9600A81944 /* libGoogleAdMobAds.a in Frameworks */,
 				B31B6D5215C13D5200854074 /* Foundation.framework in Frameworks */,
 				B37C3A5D162717A200B50A60 /* ForgeCore.framework in Frameworks */,
 			);
@@ -80,17 +80,17 @@
 		B31B6D4315C13D5200854074 = {
 			isa = PBXGroup;
 			children = (
-				8E93CECD184C236600C785C2 /* GADAdMobExtras.h */,
-				8E93CECE184C236600C785C2 /* GADAdNetworkExtras.h */,
-				8E93CECF184C236600C785C2 /* GADAdSize.h */,
-				8E93CED0184C236600C785C2 /* GADBannerView.h */,
-				8E93CED1184C236600C785C2 /* GADBannerViewDelegate.h */,
-				8E93CED2184C236600C785C2 /* GADInterstitial.h */,
-				8E93CED3184C236600C785C2 /* GADInterstitialDelegate.h */,
-				8E93CED4184C236600C785C2 /* GADRequest.h */,
-				8E93CED5184C236600C785C2 /* GADRequestError.h */,
-				8E93CED6184C236600C785C2 /* libGoogleAdMobAds.a */,
-				8E93CED7184C236600C785C2 /* README.txt */,
+				8EA55BF11853DD9600A81944 /* GADAdMobExtras.h */,
+				8EA55BF21853DD9600A81944 /* GADAdNetworkExtras.h */,
+				8EA55BF31853DD9600A81944 /* GADAdSize.h */,
+				8EA55BF41853DD9600A81944 /* GADBannerView.h */,
+				8EA55BF51853DD9600A81944 /* GADBannerViewDelegate.h */,
+				8EA55BF61853DD9600A81944 /* GADInterstitial.h */,
+				8EA55BF71853DD9600A81944 /* GADInterstitialDelegate.h */,
+				8EA55BF81853DD9600A81944 /* GADRequest.h */,
+				8EA55BF91853DD9600A81944 /* GADRequestError.h */,
+				8EA55BFA1853DD9600A81944 /* libGoogleAdMobAds.a */,
+				8EA55BFB1853DD9600A81944 /* README.txt */,
 				B3CC61EF1716ECB500A1A8EF /* admob_API.h */,
 				B3CC61F01716ECB500A1A8EF /* admob_API.m */,
 				B3CC61F11716ECB500A1A8EF /* admob_EventListener.h */,
@@ -297,12 +297,13 @@
 				HEADER_SEARCH_PATHS = "./**";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02/GoogleAnalytics/Library\\\\\\\"",
-					"\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02\\\\\\\"",
-					"\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\"",
-					"\\\\\\\"$(SRCROOT)/../../../../../../../Downloads/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02/GoogleAnalytics/Library\\\\\\\\\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02\\\\\\\\\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\\\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/../../../../../../../Downloads/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\\\\\\\\\"",
 					"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1",
 					"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector",
+					"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -327,12 +328,13 @@
 				HEADER_SEARCH_PATHS = "./**";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02/GoogleAnalytics/Library\\\\\\\"",
-					"\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02\\\\\\\"",
-					"\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\"",
-					"\\\\\\\"$(SRCROOT)/../../../../../../../Downloads/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02/GoogleAnalytics/Library\\\\\\\\\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1/Add-ons/GoogleAnalyticsServicesiOS_3.02\\\\\\\\\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\\\\\\\\\"",
+					"\\\\\\\\\\\\\\\"$(SRCROOT)/../../../../../../../Downloads/GoogleAdMobAdsSdkiOS-6.6.1\\\\\\\\\\\\\\\"",
 					"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/GoogleAdMobAdsSdkiOS-6.6.1",
 					"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector",
+					"/Users/kevzettler/checkiday/forge-admob/inspector/ios-inspector/ForgeModule",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";

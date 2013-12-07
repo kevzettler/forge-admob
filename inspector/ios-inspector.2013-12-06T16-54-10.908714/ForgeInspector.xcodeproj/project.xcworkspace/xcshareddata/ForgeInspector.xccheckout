@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>498EEA89-07BE-4C19-B9F5-A953B26745C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ForgeInspector</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F9640F07-EBD3-41CC-86C6-E88E30C75815</key>
+		<string>ssh://github.com/kevzettler/forge-admob.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>inspector/ios-inspector/ForgeInspector.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F9640F07-EBD3-41CC-86C6-E88E30C75815</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/kevzettler/forge-admob.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9640F07-EBD3-41CC-86C6-E88E30C75815</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9640F07-EBD3-41CC-86C6-E88E30C75815</string>
+			<key>IDESourceControlWCCName</key>
+			<string>forge-admob</string>
+		</dict>
+	</array>
+</dict>
+</plist>
