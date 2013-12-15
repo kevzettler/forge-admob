@@ -31,6 +31,7 @@
 		8EA55BF91853DD9600A81944 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = "<group>"; };
 		8EA55BFA1853DD9600A81944 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = "<group>"; };
 		8EA55BFB1853DD9600A81944 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		8EA55BFD185D3EC800A81944 /* globals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = globals.h; sourceTree = "<group>"; };
 		B31B6D4E15C13D5200854074 /* libForgeModule.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libForgeModule.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B31B6D5115C13D5200854074 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B31B6D6D15C1467100854074 /* admob.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = admob.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,6 +81,7 @@
 		B31B6D4315C13D5200854074 = {
 			isa = PBXGroup;
 			children = (
+				8EA55BFD185D3EC800A81944 /* globals.h */,
 				8EA55BF11853DD9600A81944 /* GADAdMobExtras.h */,
 				8EA55BF21853DD9600A81944 /* GADAdNetworkExtras.h */,
 				8EA55BF31853DD9600A81944 /* GADAdSize.h */,

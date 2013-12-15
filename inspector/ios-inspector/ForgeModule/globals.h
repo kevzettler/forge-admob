@@ -1,0 +1,1 @@
+extern GADBannerView *bannerView_;
