@@ -3,7 +3,3 @@ forge-admob
 
 Admob / Google Mobile ads, module for trigger.io 
 
-I hope to publish this thing but for the time being it is very specific to a current project so see: https://www.youtube.com/watch?v=X45YY97FmL4
-
-Also this is a rare foray into objective C for me:
-<img src="http://s.mlkshk.com/r/97VP" />
